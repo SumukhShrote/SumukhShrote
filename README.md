@@ -11,6 +11,11 @@
 
 - ⚡ Fun fact **I'm the best**
 
+As a computer science student, I possess a keen interest in the ﬁelds of robotics, machine learning,
+and deep learning. I am actively seeking opportunities to apply the principles of these domains in
+practical, real-world scenarios and integrate them with robotics technology.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sumukh-shrote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumukh-shrote" height="30" width="40" /></a>
