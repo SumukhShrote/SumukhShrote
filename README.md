@@ -30,4 +30,4 @@ practical, real-world scenarios and integrate them with robotics technology.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumukhshrote&show_icons=true&locale=en" alt="sumukhshrote" /></p>
 
-![Snake animation](https://github.com/TonyOx369/TonyOx369/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SumukhShrote/SumukhShrote/blob/output/github-contribution-grid-snake.svg)
