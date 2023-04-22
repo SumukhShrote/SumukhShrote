@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Pytorch and Unity**
 
-- 👯 I’m looking to collaborate on **ML/DL projects**
+- 👯 I’m looking to collaborate on **ML/DL And Robotics Projects**
 
 - 📫 How to reach me **sumukhshrote@gmail.com**
 
