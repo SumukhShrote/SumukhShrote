@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sumukh</h1>
 <h3 align="center">Passionate AI & Robotics Engineer implementing learning-based robotics concepts in real-world applications.</h3>
 
-- 🔭 I’m currently working on **Autonomous Underwater Vehicle**
-
-- 🌱 I’m currently learning **Pytorch & Unity**
+- 🔭 I’m currently working on **Learning based Robotics**
 
 - 👯 I’m looking to collaborate on **DL And Robotics Projects**
 
 - 📫 How to reach me **sumukhshrote@gmail.com**
 
-As a computer science student, I possess a keen interest in the ﬁelds of robotics, machine learning,
-and deep learning. I am actively seeking opportunities to apply the principles of these domains in
-practical, real-world scenarios and integrate them with robotics technology.
+As a computer science student, I possess a keen interest in the ﬁelds of robotics, deep learning, and reinforcement learning. I am actively seeking opportunities to apply the principles of these domains in practical, real-world scenarios and integrate them with robotics technology.
 
 
 <h3 align="left">Connect with me:</h3>
