@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sumukh</h1>
-<h3 align="center">Passionate AI & Robotics Engineer implementing DL & RL concepts in real-world robotics.</h3>
+<h3 align="center">Passionate AI & Robotics Engineer implementing learning-based robotics concepts in real-world applications.</h3>
 
 - 🔭 I’m currently working on **Autonomous Underwater Vehicle**
 
 - 🌱 I’m currently learning **Pytorch & Unity**
 
-- 👯 I’m looking to collaborate on **ML/DL And Robotics Projects**
+- 👯 I’m looking to collaborate on **DL And Robotics Projects**
 
 - 📫 How to reach me **sumukhshrote@gmail.com**
 
