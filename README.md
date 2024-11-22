@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Learning based Robotics**
 
-- 👯 I’m looking to collaborate on **DL And Robotics Projects**
+- 👯 I’m looking to collaborate on **DL/RL And Robotics Projects**
 
 - 📫 How to reach me **sumukhshrote@gmail.com**
 
